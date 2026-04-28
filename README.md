@@ -1,1 +1,2 @@
-# Codes in C from my CS50x's assignments
+# Codes in C programming language
+- Created during the CS50x class
